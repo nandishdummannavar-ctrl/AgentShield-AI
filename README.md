@@ -5,14 +5,14 @@ AgentShield AI – An AI Agent Security &amp; Control Center that evaluates AI a
 
 AgentShield AI is a Python-based security prototype designed to control AI agent actions through authorization rules and security checks.
 
-## 🚀 Features
+##  Features:
 - AI agent action authorization
 - Security rule validation
 - Unauthorized action detection
 - Automated security tests
 - Interactive Streamlit web interface
 
-## 🛠️ Technologies Used
+##  Technologies Used:
 - Python
 - Streamlit
 - Pytest
@@ -21,7 +21,7 @@ AgentShield AI is a Python-based security prototype designed to control AI agent
 ## 🌐 Live Demo
 [Try AgentShield AI](https://agentshield-ai-tm2wtf26m3bfpfkzq3hzbh.streamlit.app)
 
-## 💻 Run Locally
+## Run Locally
 
 1. Clone the repository:
    ```bash
